@@ -7,13 +7,13 @@
 <h4 align="center">A pure Go implementation of the WebRTC API</h4>
 <p align="center">
   <a href="https://pion.ly"><img src="https://img.shields.io/badge/pion-webrtc-gray.svg?longCache=true&colorB=brightgreen" alt="Pion webrtc"></a>
-  <a href="https://sourcegraph.com/github.com/pion/webrtc?badge"><img src="https://sourcegraph.com/github.com/pion/webrtc/-/badge.svg" alt="Sourcegraph Widget"></a>
+  <a href="https://sourcegraph.com/github.com/hcm007/webrtc?badge"><img src="https://sourcegraph.com/github.com/hcm007/webrtc/-/badge.svg" alt="Sourcegraph Widget"></a>
   <a href="https://pion.ly/slack"><img src="https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=brightgreen" alt="Slack Widget"></a>
   <br>
   <a href="https://travis-ci.org/pion/webrtc"><img src="https://travis-ci.org/pion/webrtc.svg?branch=master" alt="Build Status"></a>
-  <a href="https://godoc.org/github.com/pion/webrtc"><img src="https://godoc.org/github.com/pion/webrtc?status.svg" alt="GoDoc"></a>
+  <a href="https://godoc.org/github.com/hcm007/webrtc"><img src="https://godoc.org/github.com/hcm007/webrtc?status.svg" alt="GoDoc"></a>
   <a href="https://codecov.io/gh/pion/webrtc"><img src="https://codecov.io/gh/pion/webrtc/branch/master/graph/badge.svg" alt="Coverage Status"></a>
-  <a href="https://goreportcard.com/report/github.com/pion/webrtc"><img src="https://goreportcard.com/badge/github.com/pion/webrtc" alt="Go Report Card"></a>
+  <a href="https://goreportcard.com/report/github.com/hcm007/webrtc"><img src="https://goreportcard.com/badge/github.com/hcm007/webrtc" alt="Go Report Card"></a>
   <a href="https://www.codacy.com/app/Sean-Der/webrtc"><img src="https://api.codacy.com/project/badge/Grade/18f4aec384894e6aac0b94effe51961d" alt="Codacy Badge"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
@@ -28,14 +28,14 @@ Pion WebRTC v2.0.0 has arrived! See the [release notes](https://pion.ly/knowledg
 
 Have any questions? Join [the Slack channel](https://pion.ly/slack) to follow development and speak with the maintainers.
 
-We are actively planning [v2.1.0](https://github.com/pion/webrtc/projects/11) and would love your feedback! Anyone can add issues, and anything that you think can empower Pion users.
+We are actively planning [v2.1.0](https://github.com/hcm007/webrtc/projects/11) and would love your feedback! Anyone can add issues, and anything that you think can empower Pion users.
 
 ### Usage
 Check out the **[example applications](examples/README.md)** to help you along your Pion WebRTC journey.
 
 For more full featured examples that use 3rd party libraries see our **[example-webrtc-applications](https://github.com/pion/example-webrtc-applications)** repo.
 
-The Pion WebRTC API closely matches the JavaScript **[WebRTC API](https://w3c.github.io/webrtc-pc/)**. Most existing documentation is therefore also usefull when working with Pion. Furthermore, our **[GoDoc](https://godoc.org/github.com/pion/webrtc)** is actively maintained.
+The Pion WebRTC API closely matches the JavaScript **[WebRTC API](https://w3c.github.io/webrtc-pc/)**. Most existing documentation is therefore also usefull when working with Pion. Furthermore, our **[GoDoc](https://godoc.org/github.com/hcm007/webrtc)** is actively maintained.
 
 We maintain a [FAQ](https://pion.ly/knowledge-base/pion-basics/faq/) with answers to common questions. If you have a question not covered please submit a PR, we would be happy to answer it!
 
@@ -53,11 +53,11 @@ This allows you to use WebRTC from Go in both server and browser side code with
 little to no changes. Check out the
 **[example applications](examples/README.md#webassembly)** for instructions on
 how to compile and run the WebAssembly examples. You can also visit the
-[Wiki page on WebAssembly Development](https://github.com/pion/webrtc/wiki/WebAssembly-Development-and-Testing)
+[Wiki page on WebAssembly Development](https://github.com/hcm007/webrtc/wiki/WebAssembly-Development-and-Testing)
 for more information.
 
 ### Roadmap
-The library is in active development, please refer to the [roadmap](https://github.com/pion/webrtc/issues/9) to track our major milestones.
+The library is in active development, please refer to the [roadmap](https://github.com/hcm007/webrtc/issues/9) to track our major milestones.
 
 ### Community
 Pion has an active community on the [Golang Slack](https://invite.slack.golangbridge.org/). Sign up and join the **#pion** channel for discussions and support. You can also use [Pion mailing list](https://groups.google.com/forum/#!forum/pion).
@@ -78,7 +78,7 @@ If you need commercial support or don't want to use public methods you can conta
 * [WIP] [pion/media-server](https://github.com/pion/media-server): A Pion WebRTC powered media server, providing the building blocks for anything RTC.
 
 ### Contributing
-Check out the **[contributing wiki](https://github.com/pion/webrtc/wiki/Contributing)** to join the group of amazing people making this project possible:
+Check out the **[contributing wiki](https://github.com/hcm007/webrtc/wiki/Contributing)** to join the group of amazing people making this project possible:
 
 * [John Bradley](https://github.com/kc5nra) - *Original Author*
 * [Michael Melvin Santry](https://github.com/santrym) - *Mascot*

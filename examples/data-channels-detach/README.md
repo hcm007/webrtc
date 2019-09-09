@@ -5,7 +5,7 @@ The example mirrors the data-channels example.
 
 ## Install
 ```
-go get github.com/pion/webrtc/examples/data-channels-detach
+go get github.com/hcm007/webrtc/examples/data-channels-detach
 ```
 
 ## Usage
