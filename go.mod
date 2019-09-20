@@ -3,9 +3,9 @@ module github.com/hcm007/webrtc/v2
 go 1.12
 
 require (
+	github.com/hcm007/ice v0.5.16
 	github.com/pion/datachannel v1.4.6
 	github.com/pion/dtls v1.5.1
-	github.com/pion/ice v0.5.14
 	github.com/pion/logging v0.2.2
 	github.com/pion/quic v0.1.1
 	github.com/pion/rtcp v1.2.1

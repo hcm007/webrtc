@@ -3,7 +3,7 @@ package webrtc
 import (
 	"strings"
 
-	"github.com/pion/ice"
+	"github.com/hcm007/ice"
 )
 
 // getICEServers side-steps the strict parsing mode of the ice package
